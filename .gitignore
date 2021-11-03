@@ -21,3 +21,5 @@ config/tunnel.pid
 .next/
 .shopify-cli.yml
 ngrok.sh
+*.sqlite3
+config/config.json
